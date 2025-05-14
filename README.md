@@ -20,5 +20,5 @@ MovieDB: Your Personal Movie Catalog System
    ```bash
    git clone https://github.com/Winnchester-25/WK-8-Database-Design-Programming-with-SQL-Assignment.git
 
-# # ERD LINK 
+# Erd Link 
 
